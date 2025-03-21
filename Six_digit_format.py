@@ -4,4 +4,9 @@
 while True:
     try:
         num = int(input("Enter a number from 0-1000: "))
+        if 1 <= num <= 1000:
+
+
+
+
 
