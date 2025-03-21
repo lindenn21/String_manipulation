@@ -11,7 +11,7 @@ while True:
             print("Only input 0-1000 please.")
     except ValueError:
         print("Invalid integer pls.")
-        break
+
 
 
 
