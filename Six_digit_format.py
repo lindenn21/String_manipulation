@@ -6,6 +6,11 @@ while True:
         num = int(input("Enter a number from 0-1000: "))
         if 1 <= num <= 1000:
             print(f'{str(num)}'.zfill(6))
+            break
+        else:
+            print("Only input 0-1000 please.")
+
+
 
 
 
