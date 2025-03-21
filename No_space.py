@@ -3,3 +3,4 @@
 
 name = str(input("Enter your full name with spaces in the beginning: "))
 remove_space = name.strip()
+print(name)
