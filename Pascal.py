@@ -3,3 +3,4 @@
 
 name = str(input("Enter your full name: "))
 pascal = name.title()
+print(pascal.replace(" ", ""))
