@@ -2,3 +2,4 @@
 # Count the characters
 
 word = str(input("Input: "))
+print(len(word))
