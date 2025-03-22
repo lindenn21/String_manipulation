@@ -3,3 +3,4 @@
 # Print the amount of words
 
 word = str(input("Type a statement: "))
+print(len(word.split()))
